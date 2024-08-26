@@ -1,3 +1,3 @@
-# from  import logging
+from cnnClassifier import logging
 
-# logging.info("Welcome to the custom logs")
+logging.info("Welcome to the custom logs")

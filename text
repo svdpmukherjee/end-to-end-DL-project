@@ -1,3 +1,4 @@
 template.py: create folder structures
 requirement.txt: dependencies
 setup.py: long description of the project if we publish it as a python package
+src/cnnClassifier/__init__.py: logging
