@@ -7,7 +7,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "end-to-end-DL-project"
 AUTHOR_USER_NAME = "svdpmukherjee"
-SRC_REPO = "end-to-end-DL-project"
+SRC_REPO = "cnnClassifier"
 
 setuptools.setup(
     name = SRC_REPO,
