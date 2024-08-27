@@ -2,3 +2,11 @@ template.py: create folder structures
 requirement.txt: dependencies
 setup.py: long description of the project if we publish it as a python package
 src/cnnClassifier/__init__.py: logging
+utils/common.py: utility functions to be used in the coding
+update README.md -> writing the steps to be followed
+write config/config.yaml: data ingestion
+write params.yaml
+update constants/__init__.py: with config/config.yaml and params.yaml paths
+research/st_01.ipynb
+
+

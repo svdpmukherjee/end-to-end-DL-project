@@ -1,1 +1,12 @@
 # end-to-end-DL-project
+
+## workflows
+
+1. update config.yaml
+2. update secrets.yaml
+3. update params.yaml
+4. update entity
+5. update configuration manager in src config
+6. update components
+7. update pipeline
+8. update main.py
